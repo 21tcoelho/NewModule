@@ -1,3 +1,3 @@
 # terasologymods
-Terasology modules n/
+Terasology modules /n
 Thank you for reading me :D
