@@ -1,9 +1,9 @@
 {
     "id" : "NewModule",
     "version" : "0.1.0-SNAPSHOT",
-    "author" : "",
+    "author" : "Tiffany",
     "displayName" : "NewModule",
-    "description" : "",
+    "description" : "creates a usable chicken block in terasology",
     "dependencies" : [],
     "serverSideOnly" : false
 }
